@@ -5,7 +5,7 @@ import Search from "./Compo/Search";
 import { movieContainer } from "./Compo/Movie-Container";
 import Add from "./Compo/Modal/Add";
 import "./App.css";
-/* import Footer from "./Compo/Footer/Footer"; */
+import Footer from "./Compo/Footer/Footer"; 
 
 
 function App() {
